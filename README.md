@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hey there 👋&height=100&section=header"/>
-</p>
-
 <h2> 👨‍💻 A little bit about myself </h2>
 
 ```yaml
@@ -31,6 +27,10 @@ interests: [
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zool&hide=contribs,prs" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoolq&layout=compact" height="150">
+
+<h2> What I'm working on <h2>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zoolq)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
