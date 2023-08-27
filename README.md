@@ -1,18 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hey there 👋&height=100&section=header"/>
 </p>
 
-<!--
-**zoolq/zoolq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨‍💻 A little bit about myself </h2>
 
-Here are some ideas to get you started:
+```yaml
+name: Felix
+located_in: Munich, Germany
+currently: Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interests: [
+    "Rust",
+    "CLI-Tools",
+    "Low level programing",
+    "Optimization"
+]
+```
+
+<h2> 🛠️ Technology I use</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/>
+
+<h2> 📈 My GitHub History!</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zool&hide=contribs,prs" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoolq&layout=compact" height="150">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</p>
