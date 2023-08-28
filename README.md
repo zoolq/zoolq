@@ -25,7 +25,7 @@ interests: [
 <h2> 📈 My GitHub History!</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zool&hide=contribs,prs" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=zoolq&hide=contribs,prs" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoolq&layout=compact" height="150">
 
 <h2> What I'm working on <h2>
