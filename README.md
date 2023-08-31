@@ -15,12 +15,24 @@ interests: [
 
 <h2> 🛠️ Technology I use</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="75" height="75"/>
+<a href="python.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="75" height="75"/>
+</a>
+<a href="gnu.org/software/bash/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75"/>
+</a>
+<a href="https://www.rust-lang.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="75" height="75"/>
+</a>
+<a href="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="75" height="75"/>
+</a>
+<a href="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
+</a>
+<a href="https://code.visualstudio.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/>
+</a>
 
 <h2> 📈 My GitHub History!</h2>
 
