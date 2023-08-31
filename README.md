@@ -30,7 +30,7 @@ interests: [
 <a href="https://linuxmint.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/>
 </a>
 
