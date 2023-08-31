@@ -15,19 +15,19 @@ interests: [
 
 <h2> 🛠️ Technology I use</h2>
 <p align="center">
-<a href="https://www.python.org">
+<a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="75" height="75"/>
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://www.gnu.org/software/bash/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75"/>
 </a>
-<a href="https://www.rust-lang.org/">
+<a href="https://www.rust-lang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="75" height="75"/>
 </a>
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="75" height="75"/>
 </a>
-<a href="https://linuxmint.com/">
+<a href="https://linuxmint.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
