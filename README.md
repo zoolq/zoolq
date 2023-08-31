@@ -6,10 +6,10 @@ located_in: Munich, Germany
 currently: Student
 
 interests: [
-    "Rust",
-    "CLI-Tools",
-    "Low level programing",
-    "Optimization"
+  "Rust",
+  "CLI-Tools",
+  "Low level programing",
+  "Optimization"
 ]
 ```
 
