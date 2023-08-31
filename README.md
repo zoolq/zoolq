@@ -15,10 +15,10 @@ interests: [
 
 <h2> 🛠️ Technology I use</h2>
 <p align="center">
-<a href="python.org">
+<a href="https://www.python.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="75" height="75"/>
 </a>
-<a href="gnu.org/software/bash/">
+<a href="https://www.gnu.org/software/bash/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75"/>
 </a>
 <a href="https://www.rust-lang.org/">
