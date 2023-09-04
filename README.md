@@ -43,7 +43,7 @@ interests: [
 <h2> What I'm working on <h2>
 
 <p align="center">
-<img src="https://wakatime.com/share/@zoolq/e7205578-4e47-4f27-abc1-2b1d8e1208b2.svg" alt="languages of all time" width="750">
+<img src="https://wakatime.com/share/@zoolq/e7205578-4e47-4f27-abc1-2b1d8e1208b2.svg" alt="languages of all time" width="853">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
